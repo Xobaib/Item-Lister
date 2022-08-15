@@ -1,0 +1,9 @@
+.form-control {
+  display: inline-block;
+  width: 300px;
+  vertical-align: middle;
+}
+
+.btn-sm {
+  float: right;
+}
